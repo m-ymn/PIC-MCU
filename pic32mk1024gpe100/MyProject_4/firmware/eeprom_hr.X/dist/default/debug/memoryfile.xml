@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/eeprom_hr.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>1049728</length>                 
+      <used>11556</used>                     
+      <free>1038172</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>263024</length>                 
+      <used>2080</used>                     
+      <free>260944</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

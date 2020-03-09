@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/dc_m_w_enc.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>1049728</length>                 
+      <used>5500</used>                     
+      <free>1044228</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>263024</length>                 
+      <used>1812</used>                     
+      <free>261212</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
